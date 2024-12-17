@@ -1,0 +1,26 @@
+<br>
+
+<div>
+  <h3>Menu à proposer </h3>
+</div>
+<div class="container">
+  <form [formGroup]="fg">
+    <div class="row">
+      <div class="col-6">
+        <label for="title">title</label>
+        <input type="text" formControlName="title" class="form-control">
+      </div>
+
+    </div>
+    <div class="row">
+      <div class="col-6">
+        <label for="description">description</label>
+        <input type="text" formControlName="description" class="form-control">
+      </div>
+    </div>
+
+    <input type="submit" value="save" [disabled]="fg.invalid" (click)="addMenuafterOneClic(fg.value)"
+      style="color: blue; ">
+  </form>
+</div>
+<br>

@@ -1,0 +1,14 @@
+<div class="container">
+  <div class="box" style="border: 1px solid black;" *ngIf="menu.approved">
+    <h2>{{menu.title}}</h2>
+    <br>
+    <br>
+    <img src={{menu.image}} alt="image">
+    <br>
+    <br>
+    <button (click)="goToDetails(menu.id)">Details</button>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+
+    <button (click)="goToReservation(menu.id)">Reserver</button>
+  </div>
+</div>

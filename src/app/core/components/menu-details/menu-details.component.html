@@ -1,0 +1,17 @@
+<h2>{{menu.title}}</h2>
+<br>
+<br>
+<img src={{menu.image}} alt="image">
+<br>
+<br>
+<h4>{{menu.description}}</h4>
+<br>
+<br>
+<h4>Mark: {{ menu.mark }}</h4>
+
+<form #f="ngForm">
+  <label>mark</label>
+  <input type="number" name="mark" ngModel>
+  <button type="button" (click)="updateMenu(f.value)">Mark</button>
+  <div *ngIf="msg">{{ msg }}</div>
+</form>

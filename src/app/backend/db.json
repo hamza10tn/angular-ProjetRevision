@@ -1,0 +1,124 @@
+{
+  "menu": [
+    {
+      "title": "Pizza Margherita",
+      "image": "https://images.unsplash.com/photo-1601924573895-5c7e1d80b5e5?w=200&h=200&fit=crop",
+      "description": "Pizza classique avec sauce tomate, mozzarella et basilic frais.",
+      "approved": true,
+      "mark": 4.5,
+      "id": 1
+    },
+    {
+      "title": "Spaghetti Carbonara",
+      "image": "https://images.unsplash.com/photo-1610387032171-d8e4f2bd3953?w=200&h=200&fit=crop",
+      "description": "Pâtes italiennes avec une sauce crémeuse aux œufs, pancetta et parmesan.",
+      "approved": true,
+      "mark": 4.7,
+      "id": 2
+    },
+    {
+      "title": "Sushi Assorti",
+      "image": "https://images.unsplash.com/photo-1599943133204-1430bb07f6ec?w=200&h=200&fit=crop",
+      "description": "Plateau de sushis variés avec poisson cru et légumes.",
+      "approved": true,
+      "mark": 4.8,
+      "id": 3
+    },
+    {
+      "title": "Burger Classique",
+      "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=200&h=200&fit=crop",
+      "description": "Burger avec bœuf, fromage cheddar, laitue, tomate et oignons.",
+      "approved": true,
+      "mark": 4.3,
+      "id": 4
+    },
+    {
+      "title": "Salade César",
+      "image": "https://images.unsplash.com/photo-1589302168068-964664d93dc0?w=200&h=200&fit=crop",
+      "description": "Salade verte avec poulet grillé, croûtons, parmesan et sauce César.",
+      "approved": true,
+      "mark": 4.6,
+      "id": 5
+    },
+    {
+      "title": "Tacos au Bœuf",
+      "image": "https://images.unsplash.com/photo-1611691541373-802a3c3fd5a6?w=200&h=200&fit=crop",
+      "description": "Tortillas garnies de bœuf épicé, fromage, laitue et salsa.",
+      "approved": true,
+      "mark": 4.4,
+      "id": 6
+    },
+    {
+      "title": "Ramen au Poulet",
+      "image": "https://images.unsplash.com/photo-1589307002323-1a0aa7e06c15?w=200&h=200&fit=crop",
+      "description": "Soupe japonaise avec nouilles, poulet, œuf et légumes.",
+      "approved": true,
+      "mark": 4.7,
+      "id": 7
+    },
+    {
+      "title": "Steak Frites",
+      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=200&h=200&fit=crop",
+      "description": "Steak de bœuf grillé servi avec des frites croustillantes.",
+      "approved": true,
+      "mark": 4.5,
+      "id": 8
+    },
+    {
+      "title": "Pancakes au Sirop d'Érable",
+      "image": "https://images.unsplash.com/photo-1559628235-0756a929fb0b?w=200&h=200&fit=crop",
+      "description": "Crêpes épaisses servies avec du sirop d'érable et du beurre.",
+      "approved": true,
+      "mark": 4.8,
+      "id": 9
+    },
+    {
+      "title": "Paella aux Fruits de Mer",
+      "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=200&h=200&fit=crop",
+      "description": "Plat espagnol à base de riz safrané et de fruits de mer variés.",
+      "approved": true,
+      "mark": 4.9,
+      "id": 10
+    },
+    {
+      "title": "Curry de Poulet",
+      "image": "https://images.unsplash.com/photo-1627308595229-7830a5c91f9f?w=200&h=200&fit=crop",
+      "description": "Poulet mijoté dans une sauce curry épicée avec du riz basmati.",
+      "approved": true,
+      "mark": 4.6,
+      "id": 11
+    },
+    {
+      "title": "Dumplings Chinois",
+      "image": "https://images.unsplash.com/photo-1598419644036-43c5ad8c6f10?w=200&h=200&fit=crop",
+      "description": "Raviolis chinois farcis au porc et aux légumes, cuits à la vapeur.",
+      "approved": true,
+      "mark": 4.7,
+      "id": 12
+    },
+    {
+      "title": "Falafel",
+      "image": "https://images.unsplash.com/photo-1612874742805-9b38bba0d384?w=200&h=200&fit=crop",
+      "description": "Boulettes de pois chiches frites, servies avec du pain pita et de la sauce tahini.",
+      "approved": true,
+      "mark": 4.5,
+      "id": 13
+    },
+    {
+      "title": "Ceviche de Poisson",
+      "image": "https://images.unsplash.com/photo-1572373800940-284f4c12e75f?w=200&h=200&fit=crop",
+      "description": "Poisson cru mariné dans du jus de citron vert avec oignons et coriandre.",
+      "approved": true,
+      "mark": 4.8,
+      "id": 14
+    },
+    {
+      "title": "Lasagnes à la Bolognaise",
+      "image": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?w=200&h=200&fit=crop",
+      "description": "Pâtes en couches avec sauce bolognaise, béchamel et fromage gratiné.",
+      "approved": true,
+      "mark": 4.9,
+      "id": 15
+    }
+  ]
+}
